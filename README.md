@@ -1,2 +1,7 @@
-# travel-journal
-I did this project to practice my knowledge in React.js
+# Travel Journal - React.js
+⚛️ This is a very simple project that I did to practice my new knowledge in React.js
+
+⚛️ The main concept used, was the use of *"props"* to pass the data and make reusable components.
+
+⚛️ I'm currently studying React.js using the Scrimba plataform (*https://scrimba.com/*).
+
